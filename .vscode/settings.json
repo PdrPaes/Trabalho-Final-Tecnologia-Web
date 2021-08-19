@@ -6,5 +6,6 @@
         "font",
         "quartenaria",
         "subtitulo"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
